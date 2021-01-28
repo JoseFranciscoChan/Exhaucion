@@ -21,6 +21,7 @@ public class CalcularPi {
     double P;
     double pd;
        
+    System.out.println("N Lados   -   Lado Inicial   -   x   -   a   -   b   -   Nuevo Lado   -   P   -   P/D");
         
     for(Nlados=6; Nlados<12288;){
         
