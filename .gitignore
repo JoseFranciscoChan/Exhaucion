@@ -23,7 +23,7 @@ public class CalcularPi {
        
     System.out.println("N Lados   -   Lado Inicial   -   x   -   a   -   b   -   Nuevo Lado   -   P   -   P/D");
         
-    for(Nlados=6; Nlados<12288;){
+    for(Nlados=6; Nlados<12289;){
         
         x=Li/2;
         
